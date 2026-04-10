@@ -3,8 +3,8 @@
 
 For starters:
 
-- 🔭 I’m currently working on building a solid profile and finding employment.
-- 🌱 I’m currently learning the ins and outs of GitHub.
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning Web developpment with node JS and type script.
 - 👯 I’m looking to collaborate on web developpment or software developpement projects.
 - 🤔 I’m looking for help with modding video games.
 - 💬 Ask me about basically anything! I can research anything and i love learning new things!
